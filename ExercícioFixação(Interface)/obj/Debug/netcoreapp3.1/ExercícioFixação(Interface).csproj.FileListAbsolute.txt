@@ -1,0 +1,13 @@
+C:\Users\cmpni\source\repos\ExercícioFixação(Interface)\ExercícioFixação(Interface)\bin\Debug\netcoreapp3.1\ExercícioFixação(Interface).exe
+C:\Users\cmpni\source\repos\ExercícioFixação(Interface)\ExercícioFixação(Interface)\bin\Debug\netcoreapp3.1\ExercícioFixação(Interface).deps.json
+C:\Users\cmpni\source\repos\ExercícioFixação(Interface)\ExercícioFixação(Interface)\bin\Debug\netcoreapp3.1\ExercícioFixação(Interface).runtimeconfig.json
+C:\Users\cmpni\source\repos\ExercícioFixação(Interface)\ExercícioFixação(Interface)\bin\Debug\netcoreapp3.1\ExercícioFixação(Interface).runtimeconfig.dev.json
+C:\Users\cmpni\source\repos\ExercícioFixação(Interface)\ExercícioFixação(Interface)\bin\Debug\netcoreapp3.1\ExercícioFixação(Interface).dll
+C:\Users\cmpni\source\repos\ExercícioFixação(Interface)\ExercícioFixação(Interface)\bin\Debug\netcoreapp3.1\ExercícioFixação(Interface).pdb
+C:\Users\cmpni\source\repos\ExercícioFixação(Interface)\ExercícioFixação(Interface)\obj\Debug\netcoreapp3.1\ExercícioFixação(Interface).csprojAssemblyReference.cache
+C:\Users\cmpni\source\repos\ExercícioFixação(Interface)\ExercícioFixação(Interface)\obj\Debug\netcoreapp3.1\ExercícioFixação(Interface).AssemblyInfoInputs.cache
+C:\Users\cmpni\source\repos\ExercícioFixação(Interface)\ExercícioFixação(Interface)\obj\Debug\netcoreapp3.1\ExercícioFixação(Interface).AssemblyInfo.cs
+C:\Users\cmpni\source\repos\ExercícioFixação(Interface)\ExercícioFixação(Interface)\obj\Debug\netcoreapp3.1\ExercícioFixação(Interface).csproj.CoreCompileInputs.cache
+C:\Users\cmpni\source\repos\ExercícioFixação(Interface)\ExercícioFixação(Interface)\obj\Debug\netcoreapp3.1\ExercícioFixação(Interface).dll
+C:\Users\cmpni\source\repos\ExercícioFixação(Interface)\ExercícioFixação(Interface)\obj\Debug\netcoreapp3.1\ExercícioFixação(Interface).pdb
+C:\Users\cmpni\source\repos\ExercícioFixação(Interface)\ExercícioFixação(Interface)\obj\Debug\netcoreapp3.1\ExercícioFixação(Interface).genruntimeconfig.cache
